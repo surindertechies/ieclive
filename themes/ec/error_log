@@ -1,0 +1,4 @@
+[15-Nov-2020 00:34:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/iecollective/public_html/wp-content/themes/ec/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/iecollective/public_html/wp-content/themes/ec/index.php on line 1
